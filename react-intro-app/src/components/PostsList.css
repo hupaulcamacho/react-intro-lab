@@ -1,5 +1,6 @@
 #posts-list {
     border: 2px solid black;
     margin: 5px;
-    padding: 20px
+    padding: 20px;
+    text-align: center;
 }
